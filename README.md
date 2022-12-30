@@ -1,3 +1,16 @@
+# Project Mini Blog
+
+Projeto sobre um Mini Blog, usando React Route, Hooks, Context, Firebase e Autenticação<br/>
+Curso de React da plataforma Udemy
+
+### Ferramentas usadas:
+
+- React
+- Firebase
+- NodeJS
+- HTML
+- CSS
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
