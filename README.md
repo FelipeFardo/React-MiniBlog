@@ -1,4 +1,4 @@
-# Project Mini Blog
+# Projeto Mini Blog
 [![NPM](https://img.shields.io/npm/l/react)](https://github.com/FelipeFardo/React-MiniBlog/blob/main/LICENSE)
 
 
